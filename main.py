@@ -75,3 +75,7 @@ def decision_tree_prediction(data:SepssisFeatures):
 @app.get('/Documentation')
 def documentation():
     return {'Documentation':'all documentation'}
+
+
+
+
