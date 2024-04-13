@@ -45,7 +45,10 @@ You need to have [`Python 3`](https://www.python.org/) on your system (**a Pytho
         
       http://127.0.0.1:8000/docs
 
-![Alt text](<Screenshot 2024-04-07 202420.png>)
+![Alt text](<pics/Screenshot 2024-04-07 202420.png>)
+
+To view the fastAPI in the dockerhub follow link:
+https://hub.docker.com/repository/docker/qochieng/sepssis-api/general
 
 
 
