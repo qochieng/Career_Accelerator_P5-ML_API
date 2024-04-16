@@ -41,9 +41,12 @@ You need to have [`Python 3`](https://www.python.org/) on your system (**a Pytho
 
   FastAPI:
  
-  - Go to your browser at the following address, to explore the api's documentation :
+  - Go to your browser at the following address, to explore the api and interact with the models :
         
-      http://127.0.0.1:8000/docs
+      * http://127.0.0.1:8000/docs
+      * http://127.0.0.1:8000/random_forest_predict
+      * http://127.0.0.1:8000/logistic_regression_predict
+      * http://127.0.0.1:8000/decision_tree_predict
 
 ![Alt text](<pics/Screenshot 2024-04-07 202420.png>)
 
